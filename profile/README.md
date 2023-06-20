@@ -1,14 +1,21 @@
 ## Hi there 👋
 
-Fleksy is an amazing company (🙋) that specializes in developing technologies for language input. We have different products related to the language input which will help you level up your own application. 
+Fleksy is an amazing company (🙋) that specializes in developing technologies for language input. We have different products related to the language input which will help you level up your own application.
 
-#### [Virtual Keyboard SDK](https://github.com/FleksySDK/fleksy#virtual-keyboard-sdk-)
 
-To construct a virtual keyboard quickly and efficiently.
+### Virtual Keyboard SDK 
 
-#### [Predictive Keyboard SDK](https://github.com/FleksySDK/fleksy#predictive-keyboard-sdk-%EF%B8%8F)
+Create your own Virtual Keyboard directly from our [Virtual Keyboard SDK repository](https://github.com/FleksySDK/VirtualKeyboardSDK)
+
+We do support `iOS`, `iPadOS`, `Android`.
+
+
+### Predictive SDK
 
 To enhance your autocorrect, autocomplete, next word prediction or swipe typing capabilities.
+Check it all the features in the [Predictive SDK repository](https://github.com/FleksySDK/PredictiveSDK). 
+
+
 
 
 <!--
